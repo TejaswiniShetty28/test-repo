@@ -12,7 +12,8 @@ public class ArrayUtility {
 		for (int i : clonedArray) {
 			System.out.println("Elements of array :" + i);
 		}
-		System.out.println("sum of elements: " + addElements());
+		System.out.println("sum of elements: " + addElement
+				s());
 		System.out.println("largest element in array : " + largestElement());
 		System.out.println("smallest element in array : " + smallestElement());
 		int[] reversedArray = reverseArray();
